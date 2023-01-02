@@ -1,0 +1,3 @@
+Ajavac MarkSheet.java
+java MarkSheet
+pause...

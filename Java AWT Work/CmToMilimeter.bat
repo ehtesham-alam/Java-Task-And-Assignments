@@ -1,0 +1,3 @@
+javac CmToMilimeter.java 
+java CmToMilimeter
+pause...

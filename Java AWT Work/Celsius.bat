@@ -1,0 +1,3 @@
+javac Celsius.java
+java Celsius
+pause...

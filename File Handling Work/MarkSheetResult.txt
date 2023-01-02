@@ -1,0 +1,84 @@
+Java Marks : 90
+Pythan Marks : 80
+HTML Marks : 90
+Dotnet Marks : 89
+C Marks : 90
+Total : 500
+Java Marks : 65
+Pythan Marks : 67
+HTML Marks : 87
+Dotnet Marks : 78
+C Marks : 98
+Total : 500Obtain :395Percentage :79
+Java Marks : 56
+Pythan Marks : 78
+HTML Marks : 87
+Dotnet Marks : 90
+C Marks : 90
+Total : 500
+Obtain :401
+Percentage :80%
+
+Java Marks : 47
+Pythan Marks : 76
+HTML Marks : 87
+Dotnet Marks : 87
+C Marks : 56
+Total : 500
+Obtain :353
+Percentage :70%
+
+Java Marks : 100
+Pythan Marks : 100
+HTML Marks : 76
+Dotnet Marks : 50
+C Marks : 70
+Total : 500
+Obtain :396
+Percentage :79%
+
+Java Marks : 67
+Pythan Marks : 87
+HTML Marks : 67
+Dotnet Marks : 98
+C Marks : 54
+Total : 500
+Obtain :373
+Percentage :74%
+
+Java Marks : 56
+Pythan Marks : 78
+HTML Marks : 90
+Dotnet Marks : 76
+C Marks : 80
+Total : 500
+Obtain :380
+Percentage :76%
+
+Java Marks : 90
+Pythan Marks : 90
+HTML Marks : 90
+Dotnet Marks : 80
+C Marks : 70
+Total : 500
+Obtain :420
+Percentage :84%
+
+Java Marks : 70
+Pythan Marks : 90
+HTML Marks : 90
+Dotnet Marks : 90
+C Marks : 90
+Total : 500
+Obtain :430
+Percentage :86%
+
+Java Marks : 80
+Pythan Marks : 90
+HTML Marks : 80
+Dotnet Marks : 90
+C Marks : 80
+Total : 500
+Obtain :420
+Percentage :84%
+
